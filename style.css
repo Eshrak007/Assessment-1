@@ -1,0 +1,236 @@
+/*----------------------------------------------------------------------------------
+	Template Name: Assesment_1
+	Description: Personal Website
+	Author: Mir Mohaiminul Islam
+	Version: 1.0
+-----------------------------------------------------------------------------------
+
+/************** 1. Typography ************************/
+
+* {
+	margin: 0;
+	text-decoration: none;
+	padding: 0;
+}
+
+p {
+	padding: 0;
+	color: #333333;
+	line-height: 1.3;
+	margin: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+/* typography end  */
+/* ********************************************************* */
+/* ********************************************************* */
+/* creative Section Start */
+.creative {
+	background-color: #8a8a8a;
+	height: 100vh;
+}
+
+.creative .p1 {
+	font-weight: 500;
+}
+
+.creative h2 {
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 50px;
+}
+
+.p2 {
+	background-color: black;
+	color: #fff;
+	padding: 5px 0;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.p2 span {
+	color: #00a99d;
+}
+
+.creative h3 {
+	text-transform: uppercase;
+	margin-bottom: 40px;
+}
+
+.creative h3 span {
+	color: #00a99d;
+}
+
+.fa-angle-down {
+	padding: 10px;
+	border-radius: 50%;
+	border: 3px solid #00a99d;
+	color: #00a99d;
+	font-weight: 500;
+}
+
+/* creative Section end */
+/* ********************************************************* */
+/* ********************************************************* */
+/* navbar start */
+.fa-magnifying-glass {
+	color: #606060
+}
+
+.fa-magnifying-glass:hover {
+	color: white;
+}
+
+.navbar-nav .nav-item .nav-link {
+	color: #606060;
+	padding: 10px 15px;
+	margin: 0 5px;
+	font-weight: 600;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+	color: white;
+	background: #606060;
+	border-radius: 10px;
+}
+
+/* nav end */
+/* ********************************************************* */
+/* ********************************************************* */
+/* offer start */
+.offer {
+	padding-bottom: 40px;
+}
+
+.offer h2 {
+	text-transform: uppercase;
+	font-weight: 700;
+}
+
+.offer h2 span,
+.offer p {
+	color: #00a99d;
+	line-height: 1.4;
+}
+
+.btn-gray {
+	border: 1px solid #00a99d;
+}
+
+.btn-gray:hover {
+	background: #00a99d;
+	color: white;
+}
+
+.fa-desktop,
+.fa-puzzle-piece,
+.fa-compact-disc {
+	font-size: 35px;
+	padding: 20px;
+	color: #ecd8d8;
+	background: #383838;
+	border-radius: 50%;
+}
+
+.fa-desktop:hover,
+.fa-puzzle-piece:hover,
+.fa-compact-disc:hover {
+	background: #00a99d;
+	color: white;
+}
+
+/* offer end */
+/* ********************************************************* */
+/* ********************************************************* */
+/* mobile start */
+.mobile {
+	background-color: #383838;
+}
+
+.mobile p {
+	color: #7a7a7a;
+}
+
+.mobile span {
+	color: #00a99d;
+}
+
+/* mobile section end */
+/* ********************************************************* */
+/* ********************************************************* */
+/* grid Start*/
+.grid {
+	padding: 60px 0;
+}
+
+.grid h5 {
+	color: #606060;
+}
+
+.grid p {
+	color: #8f8f8f;
+}
+
+.p-grid {
+	font-size: 12px;
+}
+
+/* grid end */
+/* ********************************************************* */
+/* ********************************************************* */
+/* team  start*/
+.team {
+	padding-bottom: 60px;
+}
+
+.hero-area {
+	border: 1px solid #ebebeb;
+	border-radius: 5px;
+}
+
+.btn-team {
+	margin-top: -35px;
+	color: #fff;
+	background-color: #00a99d;
+	padding: 10px;
+}
+
+.btn-team:hover {
+	background-color: #383838;
+	color: white;
+}
+
+.width-hr {
+	width: 37%;
+	margin: 0 auto;
+	margin-bottom: 30px;
+
+}
+
+.color-teamp {
+	color: #00a99d;
+	margin-bottom: 20px;
+}
+
+.hero-area img {
+	width: 100%;
+}
+
+.team h2 {
+	color: #383838;
+}
+
+.team h2 span {
+	color: #00a99d;
+}
+
+/* Team End */
+/* ********************************************************* */
+/* ********************************************************* */
